@@ -1,0 +1,269 @@
+{
+ "made": [
+  {
+   "date": "2026-11-12",
+   "id": "v01",
+   "format": "quiz",
+   "title": "What level hooper are you?",
+   "status": "waiting for approval"
+  },
+  {
+   "date": "2026-11-12",
+   "id": "v02",
+   "format": "what-if",
+   "title": "Luka is a top-25 scorer at halftime",
+   "status": "waiting for approval",
+   "note": "Stats through Luka's first 10 games (NBA.com, Nov 11). Post by Nov 14 or numbers go stale."
+  },
+  {
+   "date": "2026-11-13",
+   "id": "v03",
+   "format": "trending",
+   "title": "52 points and zero turnovers",
+   "status": "not posted",
+   "note": "GitHub not linked, so no public URL for Metricool. Post by Nov 14.",
+   "sources": [
+    "https://www.espn.com/nba/story/_/id/50468039/cade-cunningham-ausar-thompson-power-pistons-wizards",
+    "https://sports.yahoo.com/articles/cade-cunningham-makes-nba-history-130330294.html"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "id": "v04",
+   "format": "drill",
+   "title": "The in-and-out (no carry)",
+   "status": "not posted",
+   "note": "GitHub not linked, so no public URL for Metricool. Evergreen.",
+   "sources": []
+  },
+  {
+   "date": "2026-11-14",
+   "id": "v05",
+   "format": "quiz",
+   "title": "Hooper this or that",
+   "status": "scheduled",
+   "scheduled": "2026-11-14T21:45:00-05:00",
+   "platforms": [
+    "tiktok"
+   ],
+   "reason": "hosted via Google Drive link; repo push still blocked",
+   "sources": []
+  },
+  {
+   "date": "2026-11-14",
+   "id": "v06",
+   "format": "what-if",
+   "title": "The Spurs opened 18-0",
+   "status": "scheduled",
+   "scheduled": "2026-11-14T21:15:00-05:00",
+   "platforms": [
+    "tiktok"
+   ],
+   "reason": "hosted via Google Drive link; repo push still blocked",
+   "sources": [
+    "https://www.espn.com/nba/story/_/id/50478136/victor-wembanyama-spurs-rout-warriors-11th-straight-win"
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "id": "v07",
+   "format": "trending",
+   "title": "4 starters out. Cavs still won.",
+   "status": "scheduled",
+   "scheduled": "2026-11-15T18:00:00-05:00",
+   "platforms": [
+    "tiktok"
+   ],
+   "reason": "hosted via Google Drive link; repo push blocked",
+   "sources": [
+    "https://www.espn.com/nba/story/_/id/50485303/cavaliers-starting-five-vs-mavs-flight-delay"
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "id": "v08",
+   "format": "drill",
+   "title": "The Euro step in 3 steps",
+   "status": "not posted",
+   "scheduled": null,
+   "platforms": [],
+   "reason": "no public link: repo push blocked and Drive public sharing was not allowed this run. Evergreen.",
+   "sources": []
+  },
+  {
+   "date": "2026-11-16",
+   "id": "v09",
+   "format": "quiz",
+   "title": "Where's the right pass?",
+   "status": "not posted",
+   "scheduled": null,
+   "planned": "2026-11-16T17:30:00-05:00",
+   "platforms": [],
+   "targets": [
+    "tiktok",
+    "instagram"
+   ],
+   "clip": null,
+   "sound": "narration (kokoro am_michael, 1.1x), no music: music/ folder missing",
+   "length_s": 23.7,
+   "reason": "not posted: no public link. Repo push blocked (Hoopsync7/hoopsync-media not authorized for this session) and Drive 'anyone with link' sharing was denied; Metricool cannot read a private Drive file. Video saved to Drive (private) and sent in chat.",
+   "sources": []
+  },
+  {
+   "date": "2026-11-16",
+   "id": "v10",
+   "format": "what-if / stat race",
+   "title": "60 blocks. 2nd place: 31.",
+   "status": "not posted",
+   "scheduled": null,
+   "planned": "2026-11-16T18:00:00-05:00",
+   "platforms": [],
+   "targets": [
+    "tiktok",
+    "instagram"
+   ],
+   "clip": null,
+   "sound": "narration (kokoro am_michael, 1.1x), no music: music/ folder missing",
+   "length_s": 20.6,
+   "reason": "not posted: no public link. Repo push blocked (Hoopsync7/hoopsync-media not authorized for this session) and Drive 'anyone with link' sharing was denied; Metricool cannot read a private Drive file. Video saved to Drive (private) and sent in chat.",
+   "note": "Stats as of Nov 16, 2026. Post by Nov 18 or numbers go stale.",
+   "sources": [
+    "https://fantasydata.com/nba/leaders/player/blocks",
+    "https://www.landofbasketball.com/nba_players_season_stats/2027/victor_wembanyama.htm",
+    "https://www.landofbasketball.com/nba_daily_summary/20261115.htm"
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "id": "v11",
+   "format": "drill",
+   "title": "Your guide hand is ruining your shot",
+   "status": "not posted",
+   "scheduled": null,
+   "planned": "2026-11-17T17:30:00-05:00",
+   "platforms": [],
+   "targets": [
+    "tiktok",
+    "instagram"
+   ],
+   "clip": null,
+   "sound": "original synthesized beat (numpy), 120 BPM, drop at payoff; no voice; -14 LUFS",
+   "length_s": 21.5,
+   "reason": "not posted: Hoopsync7/hoopsync-media is not in this session's authorized repos (push 403), so no public URL for Metricool. Sent in chat.",
+   "sources": []
+  },
+  {
+   "date": "2026-11-17",
+   "id": "v12",
+   "format": "trending",
+   "title": "Rookie just hit 7 threes",
+   "status": "not posted",
+   "scheduled": null,
+   "planned": "2026-11-17T18:00:00-05:00",
+   "platforms": [],
+   "targets": [
+    "tiktok",
+    "instagram"
+   ],
+   "clip": null,
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at payoff; no voice; -14 LUFS",
+   "length_s": 18.5,
+   "reason": "not posted: Hoopsync7/hoopsync-media is not in this session's authorized repos (push 403), so no public URL for Metricool. Sent in chat.",
+   "note": "Stats as of Nov 17, 2026 (Nov 16 game). Post by Nov 19 or it goes stale.",
+   "sources": [
+    "https://www.landofbasketball.com/nba_daily_summary/20261116.htm",
+    "https://www.landofbasketball.com/nba_players_season_stats/2027/cameron_boozer_full.htm"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "status": "not posted",
+   "scheduled": null,
+   "platforms": [],
+   "targets": [
+    "tiktok",
+    "instagram"
+   ],
+   "clip": null,
+   "reason": "not posted: Hoopsync7/hoopsync-media is not in this session's authorized repos (push 403), so no public URL for Metricool. Sent in chat.",
+   "id": "v13",
+   "format": "quiz",
+   "title": "4 NBA leaders. Bet you miss one.",
+   "planned": "2026-11-18T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, countdown ticks + reveal dings, drop after hook; no voice; -14.6 LUFS",
+   "length_s": 25.5,
+   "note": "Stats as of Nov 18, 2026. Post by Nov 20 or leaders may change.",
+   "sources": [
+    "https://www.landofbasketball.com/yearbyyear/2026_2027_season_leaders.htm"
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "status": "not posted",
+   "scheduled": null,
+   "platforms": [],
+   "targets": [
+    "tiktok",
+    "instagram"
+   ],
+   "clip": null,
+   "reason": "not posted: Hoopsync7/hoopsync-media is not in this session's authorized repos (push 403), so no public URL for Metricool. Sent in chat.",
+   "id": "v14",
+   "format": "what-if / stat race",
+   "title": "Steph is 38. Still top 5 in scoring.",
+   "planned": "2026-11-18T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at stat race, impact at per-36 reveal; no voice; -14.4 LUFS",
+   "length_s": 23.7,
+   "note": "Stats as of Nov 18, 2026. Post by Nov 20 or numbers go stale.",
+   "sources": [
+    "https://www.landofbasketball.com/year_by_year_stats/2026_2027_leaders_points_pg_rs.htm",
+    "https://www.landofbasketball.com/nba_players_season_stats/2027/stephen_curry.htm",
+    "https://www.landofbasketball.com/nba_players_season_stats/2027/stephen_curry_full.htm",
+    "https://www.landofbasketball.com/nba_players/stephen_curry.htm"
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v15",
+   "format": "drill",
+   "title": "Your hesi isn't working (here's the fix)",
+   "scheduled": "2026-11-19T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, drop after hook, impact on blow-by; no voice; -14.5 LUFS",
+   "length_s": 25.0,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-19/hesi_fix.mp4",
+   "metricool_id": 434791077,
+   "sources": []
+  },
+  {
+   "date": "2026-11-19",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v16",
+   "format": "trending",
+   "title": "Giannis just cooked his old team",
+   "scheduled": "2026-11-19T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at scoreboard, impacts on final + 267; no voice; -14.4 LUFS",
+   "length_s": 21.0,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-19/giannis_old_team.mp4",
+   "metricool_id": 434793753,
+   "note": "Stats from Nov 18, 2026 games. Evergreen-ish for ~48h.",
+   "sources": [
+    "https://www.landofbasketball.com/nba_daily_summary/20261118.htm"
+   ]
+  }
+ ]
+}
