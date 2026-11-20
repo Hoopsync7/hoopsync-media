@@ -264,6 +264,49 @@
    "sources": [
     "https://www.landofbasketball.com/nba_daily_summary/20261118.htm"
    ]
+  },
+  {
+   "date": "2026-11-20",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v17",
+   "format": "quiz (animated plays)",
+   "title": "3 reads. Most hoopers miss #2.",
+   "scheduled": "2026-11-20T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, countdown ticks + reveal dings/impacts, drop after hook; no voice; -14.6 LUFS",
+   "length_s": 22.0,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-20/three_reads.mp4",
+   "metricool_id": 436107375,
+   "sources": []
+  },
+  {
+   "date": "2026-11-20",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v18",
+   "format": "stat race / trending",
+   "title": "A rookie dropped 36. Nobody scored more.",
+   "scheduled": "2026-11-20T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at race, impacts on name reveal + final score; no voice; -14.3 LUFS",
+   "length_s": 18.6,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-20/rookie_36.mp4",
+   "metricool_id": 436109086,
+   "note": "Nov 18 games (Wednesday). Stale after ~Nov 21.",
+   "sources": [
+    "https://www.landofbasketball.com/nba_daily_summary/20261118.htm"
+   ]
   }
  ]
 }
