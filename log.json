@@ -307,6 +307,51 @@
    "sources": [
     "https://www.landofbasketball.com/nba_daily_summary/20261118.htm"
    ]
+  },
+  {
+   "date": "2026-11-21",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v19",
+   "format": "drill",
+   "title": "Stop getting your layup blocked (the floater)",
+   "scheduled": "2026-11-21T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, drop after hook, impacts on block + swish; no voice; -14.4 LUFS",
+   "length_s": 23.4,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-21/floater.mp4",
+   "metricool_id": 437033936,
+   "sources": []
+  },
+  {
+   "date": "2026-11-21",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v20",
+   "format": "what-if",
+   "title": "He averages 18.4. Last night: 51.",
+   "scheduled": "2026-11-21T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop on the 51, impacts on 4,182 + record pill; no voice; -14.7 LUFS",
+   "length_s": 23.2,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-21/harden_51.mp4",
+   "metricool_id": 437038285,
+   "note": "Nov 20 game. Timely ~48h.",
+   "sources": [
+    "https://www.landofbasketball.com/nba_daily_summary/20261120.htm",
+    "https://www.landofbasketball.com/nba_players_season_stats/2027/james_harden_full.htm",
+    "https://www.basketball-reference.com/leaders/pts_season.html"
+   ]
   }
  ]
 }
