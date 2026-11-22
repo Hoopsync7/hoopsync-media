@@ -352,6 +352,49 @@
     "https://www.landofbasketball.com/nba_players_season_stats/2027/james_harden_full.htm",
     "https://www.basketball-reference.com/leaders/pts_season.html"
    ]
+  },
+  {
+   "date": "2026-11-22",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v21",
+   "format": "quiz (animated plays)",
+   "title": "Travel or nah? Most hoopers miss #3",
+   "scheduled": "2026-11-22T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, countdown ticks + reveal dings/impacts, drop after hook; no voice; -14.5 LUFS",
+   "length_s": 23.6,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-22/travel_or_nah.mp4",
+   "metricool_id": 437977698,
+   "sources": []
+  },
+  {
+   "date": "2026-11-22",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v22",
+   "format": "trending / stat compare",
+   "title": "2 guys dropped 50 last night. Only one won.",
+   "scheduled": "2026-11-22T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop on first player card, impacts on results; no voice; -14.4 LUFS",
+   "length_s": 22.4,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-22/two_fifties.mp4",
+   "metricool_id": 437980727,
+   "note": "Nov 21 games. Timely ~48h.",
+   "sources": [
+    "https://www.landofbasketball.com/nba_daily_summary/20261121.htm"
+   ]
   }
  ]
 }
