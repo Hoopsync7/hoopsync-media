@@ -395,6 +395,49 @@
    "sources": [
     "https://www.landofbasketball.com/nba_daily_summary/20261121.htm"
    ]
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-23",
+   "id": "v23",
+   "format": "drill",
+   "title": "Your crossover gets picked (3 fixes)",
+   "scheduled": "2026-11-23T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, drop at fix 1, impacts on steal + sell; no voice; -14.2 LUFS",
+   "length_s": 22.8,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-23/crossover_fix.mp4",
+   "metricool_id": 439455040,
+   "sources": []
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-23",
+   "id": "v24",
+   "format": "what-if / stat race",
+   "title": "He steals it 3 times a night",
+   "scheduled": "2026-11-23T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at race, impacts on #1 pill + 246; no voice; -14.4 LUFS",
+   "length_s": 21.8,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-23/pickpocket.mp4",
+   "metricool_id": 439458100,
+   "note": "Steals leaders as of Nov 23, 2026. Stale in ~1 week.",
+   "sources": [
+    "https://www.landofbasketball.com/yearbyyear/2026_2027_season_leaders.htm"
+   ]
   }
  ]
 }
