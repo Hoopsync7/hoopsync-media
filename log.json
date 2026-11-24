@@ -438,6 +438,50 @@
    "sources": [
     "https://www.landofbasketball.com/yearbyyear/2026_2027_season_leaders.htm"
    ]
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-24",
+   "id": "v25",
+   "format": "quiz (animated plays)",
+   "title": "Charge or block? Most hoopers get #3 wrong",
+   "scheduled": "2026-11-24T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, drop after hook, impacts on each collision, countdown ticks + reveal dings; no voice; -14.5 LUFS",
+   "length_s": 23.2,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-24/charge_or_block.mp4",
+   "metricool_id": 440917916,
+   "note": "Evergreen rules quiz (NBA restricted-area rule on play 3).",
+   "sources": []
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-24",
+   "id": "v26",
+   "format": "trending / stat race",
+   "title": "SGA dropped 38 and still took the L",
+   "scheduled": "2026-11-24T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at race, impacts on L stamp, #1 pill, 'Lost by 5'; no voice; -14.4 LUFS",
+   "length_s": 20.0,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-24/sga_38_and_lost.mp4",
+   "metricool_id": 440920403,
+   "note": "Nov 23 games. Stale in ~2 days.",
+   "sources": [
+    "https://www.landofbasketball.com/nba_daily_summary/20261123.htm"
+   ]
   }
  ]
 }
