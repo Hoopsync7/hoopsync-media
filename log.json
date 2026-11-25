@@ -482,6 +482,50 @@
    "sources": [
     "https://www.landofbasketball.com/nba_daily_summary/20261123.htm"
    ]
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-25",
+   "id": "v27",
+   "format": "drill",
+   "title": "Your jab step does nothing (3 fixes)",
+   "scheduled": "2026-11-25T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, drop after hook, impacts on X + JAB/READ/GO; no voice; -14.4 LUFS",
+   "length_s": 22.6,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-25/jab_step.mp4",
+   "metricool_id": 442339008,
+   "note": "Evergreen. Lock pivot, short hard jab, read his feet.",
+   "sources": []
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-25",
+   "id": "v28",
+   "format": "what-if / trending",
+   "title": "Tatum dropped 41. Nobody else was close.",
+   "scheduled": "2026-11-25T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at race, impacts on 41, +8 pill, W by 15, 3,362; no voice; -14.4 LUFS",
+   "length_s": 22.2,
+   "media": "https://raw.githubusercontent.com/Hoopsync7/hoopsync-media/main/videos/2026-11-25/tatum_41.mp4",
+   "metricool_id": 442340821,
+   "note": "Nov 24 games. Stale in ~2 days.",
+   "sources": [
+    "https://www.landofbasketball.com/nba_daily_summary/20261124.htm"
+   ]
   }
  ]
 }
