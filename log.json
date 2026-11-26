@@ -526,6 +526,44 @@
    "sources": [
     "https://www.landofbasketball.com/nba_daily_summary/20261124.htm"
    ]
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-26",
+   "id": "v29",
+   "format": "quiz / rate these moves",
+   "title": "We rated 5 moves. #5 is gonna make you mad.",
+   "scheduled": "2026-11-26T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, drop after hook, ticks on meter fill + impacts on each rating; no voice; -14.5 LUFS",
+   "file": "videos/2026-11-26/rate_these_moves.mp4",
+   "metricool_id": 443659503,
+   "sources": null
+  },
+  {
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "date": "2026-11-26",
+   "id": "v30",
+   "format": "trending / stat race",
+   "title": "Wemby dropped 44. Still took the L.",
+   "scheduled": "2026-11-26T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at stat line, impacts on L stamp, top-scorer pill, '3 of top 5 lost', '44 wasn't enough'; no voice; -14.4 LUFS",
+   "file": "videos/2026-11-26/wemby_44_still_L.mp4",
+   "metricool_id": 443660071,
+   "sources": "landofbasketball.com NBA daily summary Nov 25 2026 (fetched Nov 26)"
   }
  ]
 }
