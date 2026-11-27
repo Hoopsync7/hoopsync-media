@@ -564,6 +564,44 @@
    "file": "videos/2026-11-26/wemby_44_still_L.mp4",
    "metricool_id": 443660071,
    "sources": "landofbasketball.com NBA daily summary Nov 25 2026 (fetched Nov 26)"
+  },
+  {
+   "date": "2026-11-27",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v31",
+   "format": "drill",
+   "title": "Your step-back is a travel (3 steps to a clean one)",
+   "scheduled": "2026-11-27T17:30:00-05:00",
+   "sound": "original synthesized beat (numpy), 120 BPM, drop after hook, impacts on travel stamp/extra hop/plant/landing, rep-count ticks; no voice; -14.3 LUFS",
+   "file": "videos/2026-11-27/stepback_travel.mp4",
+   "metricool_id": 444879185,
+   "sources": null
+  },
+  {
+   "date": "2026-11-27",
+   "status": "scheduled",
+   "platforms": [
+    "tiktok",
+    "instagram",
+    "youtube"
+   ],
+   "clip": null,
+   "hosting": "github raw (Hoopsync7/hoopsync-media)",
+   "id": "v32",
+   "format": "what-if / stat race",
+   "title": "Luka is on pace for 3,001 points",
+   "scheduled": "2026-11-27T18:00:00-05:00",
+   "sound": "original synthesized beat (numpy), 128 BPM, drop at race, impacts on 3,001 / +4.5 pill / pace / 394 threes; no voice; -14.4 LUFS",
+   "file": "videos/2026-11-27/luka_3000_pace.mp4",
+   "metricool_id": 444880717,
+   "sources": "landofbasketball.com 2026-27 season leaders, fetched 2026-11-27"
   }
  ]
 }
